@@ -24,7 +24,7 @@ print("------------------- CHALLENGE 1 -------------------")
 empty_list = []
 
 #this list has 5 Strings. We can print it:
-names = ["Sam", "Wolf", "Alex", "Bella", "Shaquan"]
+names = ["Alessandro", "Wolf", "Alex", "Julian", "Steph"]
 print("names: " + str(names))  
 
 #-->TODO: Declare another list called friends with at least 5 strings inside (if you don't have 5 friends make them up!)
@@ -95,7 +95,7 @@ print("This list has babies: " + str(parent_list))
 print("------------------- CHALLENGE 5 -------------------")
 
 #We can add elements into a list wihtout replacing anything. Using append() adds an element to the END of the list:
-movies = ["Toy Story 4", "The Dark Knight", "Parasite"]
+movies = ["Willie Wonka and the Chocolate Factory", "The Dark Knight", "Parasite"]
 print("Movies: " + str(movies))
 movies.append("Joker")
 movies.append("Black Panther")
